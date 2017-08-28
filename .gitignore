@@ -1,0 +1,11 @@
+# NPM files
+npm-debug.log
+node_modules
+
+# IntelliJ IDEA
+.idea*
+.idea
+
+# OS/Editor
+.DS_Store
+Thumbs.db

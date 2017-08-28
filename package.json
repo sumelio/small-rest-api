@@ -1,0 +1,29 @@
+{
+  "name": "small-rest-api",
+  "version": "1.0.0",
+  "description": "A friendly and small rest api project based on node and express framework.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": {
+    "name": "Víctor Hugo Valle Castillo",
+    "email": "victouk@gmail.com",
+    "url": "https://vihuvac.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-promise-router": "^2.0.0",
+    "helmet": "^3.8.1",
+    "joi": "^10.6.0",
+    "mongoose": "^4.11.8",
+    "morgan": "^1.8.2"
+  }
+}
